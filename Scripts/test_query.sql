@@ -1,6 +1,7 @@
 
 /*
 DROP TABLE users;
+The is a new comment.
 */
 
 CREATE TABLE users (
